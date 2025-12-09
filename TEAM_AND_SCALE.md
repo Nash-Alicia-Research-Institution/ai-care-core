@@ -19,7 +19,7 @@ AI-CARE is sustained by a dual-entity model, ensuring non-profit R&D is backed b
 | Entity | Role | TEÁOR Code Focus | Sustainability Model |
 | :--- | :--- | :--- | :--- |
 | **Nash Alicia Research Institution (NARI)** | **R&D and Ethics:** Owns the open-source code, manages the ethical framework, and pursues research grants (UNICEF, Ashoka, EU). | 72.19 (Kutatás-fejlesztés) | Public funding, grants, tax benefits. |
-| **Somogyi Consult Kft. (For-Profit)** | **Executive & Revenue:** Manages commercial activities, UNGM tenders, and B2G/B2B adoption projects. | 70.22 (Üzletviteli tanácsadás) | Cross-subsidizes NARI's R&D during lean periods; ensures core staff compensation. |
+| **Somogyi Strategy & Research Kft. (For-Profit)** | **Executive & Revenue:** Manages commercial activities, UNGM tenders, and B2G/B2B adoption projects. | 70.22 (Üzletviteli tanácsadás) | Cross-subsidizes NARI's R&D during lean periods; ensures core staff compensation. |
 
 This dual structure ensures that the **social mission (NARI)** is protected, while the **financial viability (Consult Kft.)** remains strong, making the project resilient and scalable.
 
