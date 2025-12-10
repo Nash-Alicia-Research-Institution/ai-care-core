@@ -1,5 +1,34 @@
 # 🌐 care-ai.eu: Trauma-Informed Learning Initiative
 
+---
+
+## 💰 Seeking Funding
+
+We are seeking $35,000-75,000 to launch our 6-month pilot program.
+
+**What we need:**
+- 20 laptops for children ($10K)
+- Psychologist oversight ($12K)
+- Technology infrastructure ($7K)
+- Research & publication ($3K)
+
+**Why fund AI-CARE?**
+✅ 26 facilities ready (200+ children access)  
+✅ Multidisciplinary team (tech + practice + psych)  
+✅ Open-source (MIT License, fully transparent)  
+✅ Authority approval (Hungarian Child Welfare)  
+✅ Measurable outcomes (learning + wellbeing)
+
+**Active applications:**
+- 🟡 Anthropic Economic Futures Program
+- 🟡 UNICEF Innovation Fund
+- 🟡 Google.org AI for Social Good
+
+**Interested in supporting?**  
+📧 research@care-ai.eu | 🌐 care-ai.eu
+
+---
+
 ## COMING SOON - PROTOTYPE 2025
 
 **Mission:** Empowering children in child protection care through ethical, AI-driven educational tutoring.
